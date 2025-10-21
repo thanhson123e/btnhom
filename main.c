@@ -22,11 +22,11 @@ void menu(){
     switch (c)
     {
     case 1:
-        xemthang();
+        soNgayCuaThang();
         menu();
         break;
     case 2:
-        namnhuan();
+        namNhuan();
         menu();
         break;
     case 3:
